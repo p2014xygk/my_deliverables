@@ -18,3 +18,4 @@ layout: default
 <p><a href="https://asciinema.org/a/1CkoGY32Uhp8TJXoT4Djg6LDv">(MM) Άσκηση 3 </a></p>
 <p><a href="https://asciinema.org/a/XD5Pde6qThhZ60h0CjmISTx6l">(MM) Άσκηση 4 </a></p>
 <p><a href="https://asciinema.org/a/Hien6w1pu6Sjeei46EgsJr5JQ">(MM) Άσκηση 5 </a></p>
+<p><a href="https://asciinema.org/a/9j870YnkMTNYCTWHWqGgxdFJt">(MM) Άσκηση 6 </a></p>
