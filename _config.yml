@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a static site i made to display my asciinema deliverables.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: p2014xygk
+twitter_username: ioannaxygk
 github_username:  p2014xygk
 
 # Build settings
