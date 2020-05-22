@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ιωάννα Ξυγκώρου
-email: p2014xygk@ionio.gr
+email: p14xygk@ionio.gr
 description: >- # this means to ignore newlines until "baseurl:"
   This is a static site i made to display my asciinema deliverables.
 baseurl: "" # the subpath of your site, e.g. /blog
